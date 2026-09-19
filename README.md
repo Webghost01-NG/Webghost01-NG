@@ -43,10 +43,23 @@ execution        > hype
 
 ---
 
+## `~/collaborations`
+
+Active collaborations, co-engineered protocols, and production platforms currently under development:
+
+- **[MSSN LASU Next-Gen Portal](https://github.com/Webghost01-NG/mssn-lasu-portal)** — Official digital ecosystem for the Muslim Students' Society of Nigeria at Lagos State University, serving 12,000+ students across Ojo, Epe, and Ikeja (LASUCOM) campuses. Architected with Next.js 14, real-time multi-campus prayer countdowns, and high-craft editorial design. [→ repo](https://github.com/Webghost01-NG/mssn-lasu-portal)
+- **[Emby](https://github.com/Webghost01-NG/emby)** — All-in-one clinical study platform tailored specifically for medical students in preclinical tracks. Collaborating with [`kodget`](https://github.com/kodget) on high-yield review workflows, spaced repetition, and responsive web clients. [→ repo](https://github.com/Webghost01-NG/emby)
+- **[Kwala-AI / Kwala-MCP](https://kwala-ai.xyz)** — Model Context Protocol (MCP) server enabling AI agents (Claude, Cursor) to construct, test, and deploy Kwalang YAML blockchain automations via natural language across 12+ chains. [→ live](https://kwala-ai.xyz)
+- **[ReserveRail](https://github.com/Webghost01-NG/reserverail)** — Collaboration on full-lifecycle USDC.e stablecoin issuance, reserve auditability, and redemption on HashKey HSK Chain. [→ repo](https://github.com/Webghost01-NG/reserverail)
+- **[Zecceipt](https://github.com/Webghost01-NG/zecceipt)** — Non-custodial merchant payment observer and verifiable receipt issuance protocol on Zcash. [→ repo](https://github.com/Webghost01-NG/zecceipt)
+- **[CampusNav](https://github.com/Webghost01-NG/CampusNav)** — Campus-specific navigation platform for LASU students and visitors, augmenting Google Maps with localized nomenclature, faculty hubs, and pedestrian shortcuts. [→ repo](https://github.com/Webghost01-NG/CampusNav)
+
+---
+
 ## `~/hackathons`
 
 - 🥇 **1st Place Winner — SchullTech × Kwala Hackathon ("Solve for Africa")** `Apr 2026`
-  - Built **[Kwala-MCP](https://kwala-ai.xyz)**: Frontend and Model Context Protocol (MCP) server for AI-native YAML blockchain automations, enabling LLMs (Claude, Cursor) to deploy and monitor decentralized workflows via natural language. [→ live](https://kwala-ai.xyz)
+  - Built **[Kwala-MCP](https://kwala-ai.xyz)**: Frontend and MCP server interface for AI-native YAML blockchain automations, enabling LLMs (Claude, Cursor) to compose and dispatch cross-chain tasks via natural language. [→ live](https://kwala-ai.xyz)
 - 🏆 **Winner — HashKey HSK Chain Hackathon (HSK Stablecoins Track)** `Aug 2026`
   - Built **[ReserveRail](https://github.com/Webghost01-NG/reserverail)**: Complete no-code stablecoin issuance, reserve auditability, and 1:1 redemption platform backed by USDC.e on HSK Chain. [→ repo](https://github.com/Webghost01-NG/reserverail)
 - 🏆 **Winner — Zcash Mini Build Challenge** `Aug 2026`
@@ -59,14 +72,16 @@ execution        > hype
 ## `~/flagship-protocols`
 
 **Security, Cryptography & Privacy Systems**
-- **[Veyrin](https://github.com/Webghost01-NG/veyrin)** — *See before you sign.* A keyless safety layer for Zcash Partially Created Zcash Transactions (PCZTs). Decodes creator intent via Zallet RPC, fingerprints transaction envelopes in-browser, and catches malicious field mutations before signing authority is supplied. [→ repo](https://github.com/Webghost01-NG/veyrin) · [→ live](https://veyrin.vercel.app)
-- **[Resyvr](https://github.com/Webghost01-NG/resyvr)** — *Proof-bounded RWA issuance and redemption on Creditcoin.* Eliminates centralized oracle trust by utilizing Attestcoin cryptographic proofs across Sepolia and Creditcoin CC3 to mint and burn reserve-backed RWA tokens. Built in Solidity `^0.8.30` with 55 passing Foundry tests. [→ repo](https://github.com/Webghost01-NG/resyvr) · [→ live dashboard](https://webghost01-ng.github.io/resyvr/dashboard/)
+- **[Veyrin](https://github.com/Webghost01-NG/veyrin)** — *See before you sign.* Keyless safety and mutation-detection layer for Zcash Partially Created Zcash Transactions (PCZTs). Decodes creator intent via Zallet RPC, fingerprints transaction envelopes in-browser, and catches malicious field changes before signing authority is supplied. [→ repo](https://github.com/Webghost01-NG/veyrin) · [→ live](https://veyrin.vercel.app)
+- **[Resyvr](https://github.com/Webghost01-NG/resyvr)** — *Proof-bounded RWA issuance and redemption on Creditcoin.* Eliminates centralized oracle trust by using Attestcoin cryptographic proofs across Sepolia and Creditcoin CC3 to mint and burn reserve-backed RWA tokens. Solidity `^0.8.30` with 55 passing Foundry tests. [→ repo](https://github.com/Webghost01-NG/resyvr) · [→ live dashboard](https://webghost01-ng.github.io/resyvr/dashboard/)
 - **[Call Your Shot](https://github.com/Webghost01-NG/callYourShot)** — Verifiable social prediction league built on Somnia Network where every prediction score is bound to a real on-chain order fill on DreamDEX Event Contracts, with settled cryptographic receipts. [→ repo](https://github.com/Webghost01-NG/callYourShot) · [→ live](https://call-your-shot-six.vercel.app)
 - **[Veylott](https://github.com/Webghost01-NG/veylott)** — Privacy-first prize savings protocol on **Zama fhEVM** leveraging fully homomorphic encryption for confidential user deposits and verifiable random draws. [→ repo](https://github.com/Webghost01-NG/veylott)
+- **[STRK20 Workbench](https://github.com/Webghost01-NG/strk20-workbench)** — Developer workbench for building, debugging, and inspecting STRK20 zero-knowledge privacy workflows. [→ repo](https://github.com/Webghost01-NG/strk20-workbench)
 
-**Smart Contracts & DeFi Architecture**
-- **[ERC-4626 Yield Vault](https://github.com/Webghost01-NG/erc4626-yield-vault)** — Tokenized yield-bearing vault engineered with virtual shares and assets to defend against first-depositor inflation attacks, with performance fee mechanisms in Solidity `^0.8.20`. [→ repo](https://github.com/Webghost01-NG/erc4626-yield-vault)
+**DeFi Primitives & Hardcore Smart Contracts**
+- **[ERC-4626 Yield Vault](https://github.com/Webghost01-NG/erc4626-yield-vault)** — Tokenized yield vault engineered with virtual assets and shares to defend against first-depositor inflation attacks, with performance fee mechanisms in Solidity `^0.8.20`. [→ repo](https://github.com/Webghost01-NG/erc4626-yield-vault)
 - **[EIP-712 Multisig Payroll](https://github.com/Webghost01-NG/eip712-multisig-payroll)** — M-of-N multisig treasury leveraging off-chain typed data signatures (EIP-712) for gasless relayer executions. [→ repo](https://github.com/Webghost01-NG/eip712-multisig-payroll)
+- **[Onchain SVG NFT Foundry](https://github.com/Webghost01-NG/onchain-svg-nft-foundry)** — 100% on-chain dynamic SVG generation rendered entirely from EVM bytecode without external hosting or IPFS dependencies. [→ repo](https://github.com/Webghost01-NG/onchain-svg-nft-foundry)
 - **[Token Vesting Vault](https://github.com/Webghost01-NG/token-vesting-vault)** — Production-grade linear token release schedule with customizable cliff periods and equitable owner revocation. [→ repo](https://github.com/Webghost01-NG/token-vesting-vault)
 - **[Merkle NFT Minter](https://github.com/Webghost01-NG/merkle-nft-minter)** — Gas-optimized allowlist minter utilizing cryptographic Merkle tree root verification in Foundry. [→ repo](https://github.com/Webghost01-NG/merkle-nft-minter)
 - **[RelayPay](https://github.com/Webghost01-NG/relaypay)** — Non-custodial XRP merchant checkout engine and developer SDK on Flare EVM integrating Flare Data Connector (FDC) and FTSO v2 oracles. [→ repo](https://github.com/Webghost01-NG/relaypay)
@@ -75,6 +90,7 @@ execution        > hype
 - **[HiveKernel](https://github.com/Webghost01-NG/HiveKernel)** — Autonomous peer-to-peer agent subcontracting and optimistic settlement kernel engineered from scratch in **Rust**. [→ repo](https://github.com/Webghost01-NG/HiveKernel)
 - **[AetherX Intent Engine](https://github.com/Webghost01-NG/aetherx-intent-engine)** — Autonomous AI intent execution and dynamic yield synthesizer for Real-World Assets on OKX X Layer. [→ repo](https://github.com/Webghost01-NG/aetherx-intent-engine)
 - **[ChronoGraph](https://github.com/Webghost01-NG/chronograph)** — Graph-native agent memory engine with temporal truth resolution built on HydraDB. [→ repo](https://github.com/Webghost01-NG/chronograph)
+- **[BOTSTATE](https://github.com/Webghost01-NG/botstate)** — Autonomous AI real estate protocol appraisals signing fair-market valuations on BOT Chain Mainnet. [→ repo](https://github.com/Webghost01-NG/botstate)
 - **[Executix AI](https://github.com/Webghost01-NG/executix-ai)** — Full-stack autonomous on-chain execution platform powered by KeeperHub & MCP v1.0. [→ repo](https://github.com/Webghost01-NG/executix-ai)
 
 ---
