@@ -18,7 +18,7 @@
 
 ```bash
 $ whoami
-> webghost — physics finalist & Web3 engineer building secure DeFi protocols, cryptographic safety layers, and autonomous onchain agents.
+> webghost — started at 8, gave up, came back at 14. Physics finalist & Web3 engineer doing serious onchain doings.
 ```
 
 </div>
@@ -29,9 +29,11 @@ $ whoami
 
 Hi, I'm **Abdurrahman (Webghost)** — a full-stack Web3, smart contract, and protocol security engineer driven by first-principles reasoning and computational logic.
 
-I am currently a **Physics Finalist at Lagos State University (LASU)** and an alumnus of **Web3Bridge Africa** (Web2 Advanced & Web3 Solidity). My academic background in electromagnetic theory, thermodynamics, and mathematical physics directly shapes how I approach software: analyzing state invariants, anticipating exploit vectors, and designing resilient decentralized architectures.
+Started coding at **8 years old**, gave up, and then came back with a vengeance at **14** because I couldn't shake the obsession with how things really work under the hood. Since then, it’s been non-stop **onchain doings** — from dissecting EVM opcodes and mathematical invariants to architecting production smart contracts, zero-knowledge safety layers, and autonomous AI agents.
 
-I am a **3× Hackathon Winner** who builds high-performance EVM smart contracts, privacy-preserving zero-knowledge layers, and autonomous on-chain agent infrastructure under intense production deadlines.
+I am currently a **Physics Finalist at Lagos State University (LASU)** and an alumnus of **Web3Bridge Africa** (Web2 Advanced & Web3 Solidity). My academic background in electromagnetic theory, thermodynamics, and mathematical physics directly shapes how I approach software: analyzing state invariants, anticipating exploit vectors, and stripping away unnecessary abstractions.
+
+I am a **3× Hackathon Winner** who builds high-performance EVM smart contracts, privacy-preserving cryptographic layers, and autonomous on-chain agent infrastructure under intense production deadlines.
 
 ```
 first principles > assumptions
