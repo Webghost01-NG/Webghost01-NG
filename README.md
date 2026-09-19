@@ -69,6 +69,26 @@ Active collaborations, co-engineered protocols, and production platforms current
 
 ---
 
+## `~/achievements`
+
+- 🏆 **3× Hackathon Winner** across Web3, Stablecoin, and Privacy tracks (*SchullTech × Kwala, HashKey HSK Chain, Zcash Mini Build*)
+- 💻 **EduBridge Consultant Best Performer Award** — Awarded **Overall Best Performer** (awarded a laptop) and won the Software Engineering track competition
+- 🎓 **Web3Bridge Africa Alumni** — Web2 Advanced Cohort XIV & Web3 Solidity Track Cohort XV
+- 📜 **8× Cyfrin Updraft Certified Smart Contract Engineer**:
+  - **Advanced Foundry** — Invariant fuzzing, differential testing, and gas optimization `[ID: K0VGFNLHHZFM]`
+  - **Solidity Smart Contract Development** — Production-grade EVM contract architecture `[ID: UNFYBBAT9ULK]`
+  - **Foundry Fundamentals** — Unit testing, deployment scripting, and local forks `[ID: OJHAYTAPH80M]`
+  - **Full-Stack Web3 & Blockchain Development** — Ethers.js, Viem, Wagmi, and dApp integration `[ID: 2FVFFG0CRIDP]`
+  - **Chainlink Fundamentals** — Decentralized oracles, Data Feeds, VRF, and Automation `[ID: CLF-LU9VL7HEIZL2L]`
+  - **Introduction to Python & Vyper** — Python-native smart contract development `[ID: 2A9Q9V5U6UMG]`
+  - **Blockchain Basics** — Cryptography, consensus, hashing algorithms, and network state `[ID: YFVRH7P2VMOHA]`
+  - **Smart Contract Developer** — End-to-end decentralized protocol engineering
+- 📜 **freeCodeCamp Certified**:
+  - **JavaScript Algorithms and Data Structures** (Dec 2023)
+  - **Full Stack Web Development**
+
+---
+
 ## `~/flagship-protocols`
 
 **Security, Cryptography & Privacy Systems**
