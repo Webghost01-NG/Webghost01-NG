@@ -161,7 +161,7 @@ systems/ai       Autonomous Agents · Model Context Protocol (MCP) · KeeperHub 
 
 ## `~/connect`
 
-Open to: smart contract engineering, DeFi protocol development, hackathon collaborations, and autonomous on-chain agent systems.
+Open to: smart contract engineering, DeFi protocol development, hackathon collaborations, autonomous on-chain agent systems, and open-source public-goods work.
 
 ```
 github      github.com/Webghost01-NG
